@@ -1,9 +1,114 @@
-<mxfile host="app.diagrams.net" modified="2023-08-07T08:36:39.800Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" version="21.6.6" etag="J3xl-NYLX6cIzgtk75TH" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-07T10:40:49.211Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="5J96MJNwRPO1SU6mAxqo" version="21.6.6" type="github">
   <diagram name="第 1 页" id="eVJsNLCNCUM8TFV9pEN_">
-    <mxGraphModel>
+    <mxGraphModel dx="1379" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="uJTnzZAIRmg2BBLwjQIl-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uJTnzZAIRmg2BBLwjQIl-1" target="uJTnzZAIRmg2BBLwjQIl-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uJTnzZAIRmg2BBLwjQIl-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uJTnzZAIRmg2BBLwjQIl-1" target="uJTnzZAIRmg2BBLwjQIl-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uJTnzZAIRmg2BBLwjQIl-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uJTnzZAIRmg2BBLwjQIl-1" target="uJTnzZAIRmg2BBLwjQIl-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uJTnzZAIRmg2BBLwjQIl-1" value="手续" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uJTnzZAIRmg2BBLwjQIl-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uJTnzZAIRmg2BBLwjQIl-2" target="uJTnzZAIRmg2BBLwjQIl-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uJTnzZAIRmg2BBLwjQIl-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uJTnzZAIRmg2BBLwjQIl-2" target="uJTnzZAIRmg2BBLwjQIl-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uJTnzZAIRmg2BBLwjQIl-2" value="香港( 潜艇牌照)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uJTnzZAIRmg2BBLwjQIl-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uJTnzZAIRmg2BBLwjQIl-3" target="uJTnzZAIRmg2BBLwjQIl-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uJTnzZAIRmg2BBLwjQIl-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uJTnzZAIRmg2BBLwjQIl-3" target="uJTnzZAIRmg2BBLwjQIl-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uJTnzZAIRmg2BBLwjQIl-3" value="国内（下潜许可）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uJTnzZAIRmg2BBLwjQIl-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uJTnzZAIRmg2BBLwjQIl-4" target="uJTnzZAIRmg2BBLwjQIl-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uJTnzZAIRmg2BBLwjQIl-4" value="海事处" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uJTnzZAIRmg2BBLwjQIl-5" value="交通运输署" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uJTnzZAIRmg2BBLwjQIl-8" value="小鹏汽车或关联企业自主申请" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uJTnzZAIRmg2BBLwjQIl-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="uJTnzZAIRmg2BBLwjQIl-9" target="uJTnzZAIRmg2BBLwjQIl-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uJTnzZAIRmg2BBLwjQIl-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uJTnzZAIRmg2BBLwjQIl-9" target="uJTnzZAIRmg2BBLwjQIl-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="585" y="370" />
+              <mxPoint x="990" y="370" />
+              <mxPoint x="990" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uJTnzZAIRmg2BBLwjQIl-9" value="海洋大学、南海研究所" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uJTnzZAIRmg2BBLwjQIl-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uJTnzZAIRmg2BBLwjQIl-14" target="uJTnzZAIRmg2BBLwjQIl-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uJTnzZAIRmg2BBLwjQIl-14" value="支持船" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uJTnzZAIRmg2BBLwjQIl-15" value="马云/马化腾那个怎么做的？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uJTnzZAIRmg2BBLwjQIl-17" value="何总之前拜访如何" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uJTnzZAIRmg2BBLwjQIl-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uJTnzZAIRmg2BBLwjQIl-18" target="uJTnzZAIRmg2BBLwjQIl-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uJTnzZAIRmg2BBLwjQIl-18" value="Triton意见" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uJTnzZAIRmg2BBLwjQIl-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uJTnzZAIRmg2BBLwjQIl-20" target="uJTnzZAIRmg2BBLwjQIl-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uJTnzZAIRmg2BBLwjQIl-20" value="明细清单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uJTnzZAIRmg2BBLwjQIl-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uJTnzZAIRmg2BBLwjQIl-21" target="uJTnzZAIRmg2BBLwjQIl-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uJTnzZAIRmg2BBLwjQIl-21" value="询价谈价" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uJTnzZAIRmg2BBLwjQIl-24" value="合同、出境手续" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uJTnzZAIRmg2BBLwjQIl-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uJTnzZAIRmg2BBLwjQIl-26" target="uJTnzZAIRmg2BBLwjQIl-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uJTnzZAIRmg2BBLwjQIl-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="uJTnzZAIRmg2BBLwjQIl-26" target="uJTnzZAIRmg2BBLwjQIl-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uJTnzZAIRmg2BBLwjQIl-26" value="下潜地点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uJTnzZAIRmg2BBLwjQIl-27" value="1、目的地生物或遗迹&lt;br&gt;2、水文环境(视野清晰、洋流、浪高)&lt;br&gt;3、安全(远离航道、渔场、军事区、油气)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="620" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uJTnzZAIRmg2BBLwjQIl-29" value="有些论文。&lt;br&gt;我们愿意出什么对价" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
