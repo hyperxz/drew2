@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-14T10:12:52.315Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.200" etag="Ll7H0UnsIRc1FMtOMIfO" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-14T10:33:16.579Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.200" etag="EBSaim87Z4Pd7G48kEt0" version="21.6.6" type="github">
   <diagram name="第 1 页" id="eVJsNLCNCUM8TFV9pEN_">
     <mxGraphModel dx="1379" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -45,6 +45,11 @@
         <mxCell id="uJTnzZAIRmg2BBLwjQIl-4" value="潜艇作为创新建造的游艇(IV类船舶)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="525" y="10" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="y-pHavdXfrGVGDhUzRtg-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="uJTnzZAIRmg2BBLwjQIl-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="870" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="uJTnzZAIRmg2BBLwjQIl-5" value="猪鼻插葱-捆两个浮筒，符合ISO-6185的橡皮艇" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="525" y="80" width="120" height="60" as="geometry" />
         </mxCell>
@@ -74,6 +79,9 @@
         </mxCell>
         <mxCell id="uJTnzZAIRmg2BBLwjQIl-15" value="马云/马化腾那个怎么做的？" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y-pHavdXfrGVGDhUzRtg-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uJTnzZAIRmg2BBLwjQIl-17" target="y-pHavdXfrGVGDhUzRtg-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uJTnzZAIRmg2BBLwjQIl-17" value="何总之前拜访如何" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="700" y="10" width="120" height="60" as="geometry" />
@@ -116,6 +124,18 @@
         </mxCell>
         <mxCell id="y-pHavdXfrGVGDhUzRtg-2" value="指鹿为马-那四个推进器是风扇，符合4米一下，7.5KW以下附属船只" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="525" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y-pHavdXfrGVGDhUzRtg-4" value="如何沟通？何总发起，还是NextWave发起？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y-pHavdXfrGVGDhUzRtg-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="710" as="sourcePoint" />
+            <mxPoint x="200" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y-pHavdXfrGVGDhUzRtg-7" value="香港法规" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="710" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
