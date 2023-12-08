@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-07T11:45:38.810Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="YOx0HfTvn3-fMLofCv5y" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-08T07:52:34.740Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="J8gCFQjtVTD26vxi7xWC" version="22.1.7" type="github">
   <diagram name="第 1 页" id="eVJsNLCNCUM8TFV9pEN_">
-    <mxGraphModel dx="1048" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1048" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="y-pHavdXfrGVGDhUzRtg-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="uJTnzZAIRmg2BBLwjQIl-1" target="uJTnzZAIRmg2BBLwjQIl-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uJTnzZAIRmg2BBLwjQIl-1" value="手续" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="uJTnzZAIRmg2BBLwjQIl-1" value="潜艇手续" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uJTnzZAIRmg2BBLwjQIl-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="uJTnzZAIRmg2BBLwjQIl-2" target="uJTnzZAIRmg2BBLwjQIl-4" edge="1">
@@ -28,6 +28,9 @@
         <mxCell id="uJTnzZAIRmg2BBLwjQIl-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="uJTnzZAIRmg2BBLwjQIl-3" target="uJTnzZAIRmg2BBLwjQIl-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Xnv4SM8pmu6KSxDaKhVw-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uJTnzZAIRmg2BBLwjQIl-3" target="Xnv4SM8pmu6KSxDaKhVw-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uJTnzZAIRmg2BBLwjQIl-3" value="下潜许可" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="240" width="120" height="60" as="geometry" />
         </mxCell>
@@ -43,53 +46,62 @@
             <mxPoint x="645" y="110" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uJTnzZAIRmg2BBLwjQIl-8" value="小鹏汽车或关联企业自主申请" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="uJTnzZAIRmg2BBLwjQIl-8" value="公司申请科研" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="525" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uJTnzZAIRmg2BBLwjQIl-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="uJTnzZAIRmg2BBLwjQIl-9" target="uJTnzZAIRmg2BBLwjQIl-29" edge="1">
+        <mxCell id="Xnv4SM8pmu6KSxDaKhVw-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uJTnzZAIRmg2BBLwjQIl-9" target="uJTnzZAIRmg2BBLwjQIl-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uJTnzZAIRmg2BBLwjQIl-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="uJTnzZAIRmg2BBLwjQIl-9" target="uJTnzZAIRmg2BBLwjQIl-27" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="585" y="450" />
-              <mxPoint x="990" y="450" />
-              <mxPoint x="990" y="630" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uJTnzZAIRmg2BBLwjQIl-9" value="海洋大学、南海研究所" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="uJTnzZAIRmg2BBLwjQIl-9" value="“老杨”、海洋大学、南海研究所" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="525" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uJTnzZAIRmg2BBLwjQIl-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="uJTnzZAIRmg2BBLwjQIl-14" target="uJTnzZAIRmg2BBLwjQIl-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uJTnzZAIRmg2BBLwjQIl-14" value="支持船" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="470" width="120" height="60" as="geometry" />
+        <mxCell id="Xnv4SM8pmu6KSxDaKhVw-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uJTnzZAIRmg2BBLwjQIl-14" target="uJTnzZAIRmg2BBLwjQIl-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uJTnzZAIRmg2BBLwjQIl-17" value="NextWave" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Xnv4SM8pmu6KSxDaKhVw-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uJTnzZAIRmg2BBLwjQIl-14" target="uJTnzZAIRmg2BBLwjQIl-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uJTnzZAIRmg2BBLwjQIl-14" value="支持船" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uJTnzZAIRmg2BBLwjQIl-17" value="NextWave正与海事处沟通" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="700" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uJTnzZAIRmg2BBLwjQIl-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="uJTnzZAIRmg2BBLwjQIl-18" target="uJTnzZAIRmg2BBLwjQIl-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uJTnzZAIRmg2BBLwjQIl-18" value="设计图定稿" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="300" y="470" width="120" height="60" as="geometry" />
+        <mxCell id="uJTnzZAIRmg2BBLwjQIl-18" value="确定牌照种类&lt;br&gt;(香港游艇-可转海南)&lt;br&gt;设计图定稿" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uJTnzZAIRmg2BBLwjQIl-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="uJTnzZAIRmg2BBLwjQIl-20" target="uJTnzZAIRmg2BBLwjQIl-21" edge="1">
+        <mxCell id="uJTnzZAIRmg2BBLwjQIl-20" value="合同&lt;br&gt;CCS审图&lt;br&gt;海事处审图" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xnv4SM8pmu6KSxDaKhVw-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uJTnzZAIRmg2BBLwjQIl-21" target="Xnv4SM8pmu6KSxDaKhVw-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uJTnzZAIRmg2BBLwjQIl-20" value="明细清单" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="470" y="470" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="uJTnzZAIRmg2BBLwjQIl-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="uJTnzZAIRmg2BBLwjQIl-21" target="uJTnzZAIRmg2BBLwjQIl-24" edge="1">
+        <mxCell id="Xnv4SM8pmu6KSxDaKhVw-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uJTnzZAIRmg2BBLwjQIl-21" target="Xnv4SM8pmu6KSxDaKhVw-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uJTnzZAIRmg2BBLwjQIl-21" value="询价谈价" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="640" y="470" width="120" height="60" as="geometry" />
+        <mxCell id="uJTnzZAIRmg2BBLwjQIl-21" value="安全性" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uJTnzZAIRmg2BBLwjQIl-24" value="合同、出境手续" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="810" y="470" width="120" height="60" as="geometry" />
+        <mxCell id="Xnv4SM8pmu6KSxDaKhVw-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uJTnzZAIRmg2BBLwjQIl-24" target="Xnv4SM8pmu6KSxDaKhVw-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xnv4SM8pmu6KSxDaKhVw-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uJTnzZAIRmg2BBLwjQIl-24" target="Xnv4SM8pmu6KSxDaKhVw-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xnv4SM8pmu6KSxDaKhVw-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uJTnzZAIRmg2BBLwjQIl-24" target="Xnv4SM8pmu6KSxDaKhVw-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xnv4SM8pmu6KSxDaKhVw-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uJTnzZAIRmg2BBLwjQIl-24" target="Xnv4SM8pmu6KSxDaKhVw-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uJTnzZAIRmg2BBLwjQIl-24" value="性价比&lt;br&gt;（从高价到低价在学习）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="615" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uJTnzZAIRmg2BBLwjQIl-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="uJTnzZAIRmg2BBLwjQIl-26" target="uJTnzZAIRmg2BBLwjQIl-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -98,36 +110,96 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uJTnzZAIRmg2BBLwjQIl-26" value="下潜地点" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xnv4SM8pmu6KSxDaKhVw-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="uJTnzZAIRmg2BBLwjQIl-27" target="Xnv4SM8pmu6KSxDaKhVw-35">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uJTnzZAIRmg2BBLwjQIl-27" value="1、目的地生物或遗迹&lt;br&gt;2、水文环境(视野清晰、洋流、浪高)&lt;br&gt;3、安全(远离航道、渔场、军事区、油气)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="300" y="590" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="uJTnzZAIRmg2BBLwjQIl-29" value="有些论文。&lt;br&gt;我们愿意出什么对价" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="700" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="800" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="y-pHavdXfrGVGDhUzRtg-2" value="说明螺旋桨不是推进器，登记成4米以下，7.5KW以下附属船只" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="525" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="y-pHavdXfrGVGDhUzRtg-4" value="如何沟通？何总发起，还是NextWave发起？" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="870" y="80" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="y-pHavdXfrGVGDhUzRtg-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="710" as="sourcePoint" />
-            <mxPoint x="200" y="530" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="y-pHavdXfrGVGDhUzRtg-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="y-pHavdXfrGVGDhUzRtg-7" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300" y="740" as="targetPoint" />
+            <mxPoint x="300" y="950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="y-pHavdXfrGVGDhUzRtg-7" value="香港法规" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="710" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="920" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RBoVIYKwUGzxHA82L_Fq-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="710" width="120" height="60" as="geometry" />
+        <mxCell id="RBoVIYKwUGzxHA82L_Fq-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xnv4SM8pmu6KSxDaKhVw-1" value="无视&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xnv4SM8pmu6KSxDaKhVw-3" value="待前一种不行再尝试此种，Triton不同意虚标小推进器。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xnv4SM8pmu6KSxDaKhVw-6" value="CCS、船厂、监理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Xnv4SM8pmu6KSxDaKhVw-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xnv4SM8pmu6KSxDaKhVw-7" target="Xnv4SM8pmu6KSxDaKhVw-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xnv4SM8pmu6KSxDaKhVw-7" value="标准设备、成熟技术" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="530" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Xnv4SM8pmu6KSxDaKhVw-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xnv4SM8pmu6KSxDaKhVw-8" target="Xnv4SM8pmu6KSxDaKhVw-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xnv4SM8pmu6KSxDaKhVw-8" value="船型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="585" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xnv4SM8pmu6KSxDaKhVw-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xnv4SM8pmu6KSxDaKhVw-10" target="Xnv4SM8pmu6KSxDaKhVw-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xnv4SM8pmu6KSxDaKhVw-10" value="发动机和发电机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="630" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xnv4SM8pmu6KSxDaKhVw-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xnv4SM8pmu6KSxDaKhVw-11" target="Xnv4SM8pmu6KSxDaKhVw-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xnv4SM8pmu6KSxDaKhVw-11" value="（正看，是否预留R410家用的位置节省成本）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="615" y="670" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Xnv4SM8pmu6KSxDaKhVw-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xnv4SM8pmu6KSxDaKhVw-17" target="Xnv4SM8pmu6KSxDaKhVw-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xnv4SM8pmu6KSxDaKhVw-17" value="内装，非安全相关的，是否用家用，标准件，便宜好修。" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="720" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Xnv4SM8pmu6KSxDaKhVw-18" value="(流体力学仿真，汽车是否有人)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="585" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xnv4SM8pmu6KSxDaKhVw-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xnv4SM8pmu6KSxDaKhVw-19" target="Xnv4SM8pmu6KSxDaKhVw-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xnv4SM8pmu6KSxDaKhVw-19" value="潍柴/机械泵/中速" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="630" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xnv4SM8pmu6KSxDaKhVw-20" value="航标船、减摇设备" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="530" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Xnv4SM8pmu6KSxDaKhVw-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xnv4SM8pmu6KSxDaKhVw-23" target="Xnv4SM8pmu6KSxDaKhVw-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xnv4SM8pmu6KSxDaKhVw-23" value="空调" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="675" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xnv4SM8pmu6KSxDaKhVw-25" value="活动室高级 / 潜艇舱节能" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="675" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xnv4SM8pmu6KSxDaKhVw-31" value="活动室高级找设计师？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="645" y="725" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xnv4SM8pmu6KSxDaKhVw-35" value="安全性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xnv4SM8pmu6KSxDaKhVw-36" value="找修理工问要点&lt;br&gt;/游艇直通回国修" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="630" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
