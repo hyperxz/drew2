@@ -1,9 +1,90 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T03:07:52.649Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" version="22.1.11" etag="8EDWEDsH1yokFEvlQJ2R" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-20T03:33:27.586Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="LyP21kaHGf1iep08se8L" version="22.1.11" type="github">
   <diagram name="第 1 页" id="tAkSXGFJ9aGwxHN90IYv">
-    <mxGraphModel>
+    <mxGraphModel dx="1379" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="bbb0xuv7O0a4QDUGZQx4-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bbb0xuv7O0a4QDUGZQx4-1" target="bbb0xuv7O0a4QDUGZQx4-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bbb0xuv7O0a4QDUGZQx4-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bbb0xuv7O0a4QDUGZQx4-1" target="bbb0xuv7O0a4QDUGZQx4-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bbb0xuv7O0a4QDUGZQx4-1" value="支持船船籍地" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="314" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bbb0xuv7O0a4QDUGZQx4-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bbb0xuv7O0a4QDUGZQx4-2" target="bbb0xuv7O0a4QDUGZQx4-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bbb0xuv7O0a4QDUGZQx4-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bbb0xuv7O0a4QDUGZQx4-2" target="bbb0xuv7O0a4QDUGZQx4-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bbb0xuv7O0a4QDUGZQx4-2" value="香港（游艇）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="194" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bbb0xuv7O0a4QDUGZQx4-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bbb0xuv7O0a4QDUGZQx4-3" target="bbb0xuv7O0a4QDUGZQx4-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bbb0xuv7O0a4QDUGZQx4-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bbb0xuv7O0a4QDUGZQx4-3" target="bbb0xuv7O0a4QDUGZQx4-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bbb0xuv7O0a4QDUGZQx4-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bbb0xuv7O0a4QDUGZQx4-3" target="bbb0xuv7O0a4QDUGZQx4-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bbb0xuv7O0a4QDUGZQx4-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bbb0xuv7O0a4QDUGZQx4-3" target="bbb0xuv7O0a4QDUGZQx4-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bbb0xuv7O0a4QDUGZQx4-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bbb0xuv7O0a4QDUGZQx4-3" target="bbb0xuv7O0a4QDUGZQx4-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bbb0xuv7O0a4QDUGZQx4-3" value="内地(科考船)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="384" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bbb0xuv7O0a4QDUGZQx4-4" value="潜水器不注册船籍，在香港搭载上，作为科考设备" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="314" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bbb0xuv7O0a4QDUGZQx4-5" value="潜水器船籍内地" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="454" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bbb0xuv7O0a4QDUGZQx4-12" value="在南海下潜法律空白" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="194" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bbb0xuv7O0a4QDUGZQx4-13" value="非法进口设备？是否在岸上会被检查没收。" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="314" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bbb0xuv7O0a4QDUGZQx4-14" value="潜水器入境的法律手续和税费" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="454" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bbb0xuv7O0a4QDUGZQx4-17" value="托管在三亚" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="574" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bbb0xuv7O0a4QDUGZQx4-18" value="托管在珠三角" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="694" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bbb0xuv7O0a4QDUGZQx4-19" value="老杨团队规模经济，手续熟悉，当地海事、海警关系好，但出行不方便" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="574" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bbb0xuv7O0a4QDUGZQx4-22" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="694" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bbb0xuv7O0a4QDUGZQx4-23" value="潜水器注册成IV类" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="134" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bbb0xuv7O0a4QDUGZQx4-24" value="潜水器注册成附属船" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="214" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bbb0xuv7O0a4QDUGZQx4-25" value="潜水器船籍香港，只能IV类" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="384" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bbb0xuv7O0a4QDUGZQx4-26" value="带外籍潜水器进领海手续需探讨" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="384" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bbb0xuv7O0a4QDUGZQx4-28" value="找老杨公司，每次从三亚过来或头两年珠三角雇人" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="664" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bbb0xuv7O0a4QDUGZQx4-29" value="找珠三角本地科考公司或游艇会" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="734" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
