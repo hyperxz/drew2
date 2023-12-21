@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-21T03:17:22.805Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="HWR0mbSZfXOIlpIkhnQ1" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-21T03:27:25.600Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="KYeajcKAy3_LoTfzSkJT" version="22.1.11" type="github">
   <diagram name="第 1 页" id="tAkSXGFJ9aGwxHN90IYv">
     <mxGraphModel dx="1379" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -48,6 +48,15 @@
         </mxCell>
         <mxCell id="bbb0xuv7O0a4QDUGZQx4-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="bbb0xuv7O0a4QDUGZQx4-3" target="bbb0xuv7O0a4QDUGZQx4-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FA90OndIv8zv3o0rr0Xi-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bbb0xuv7O0a4QDUGZQx4-3" target="FA90OndIv8zv3o0rr0Xi-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="670" />
+              <mxPoint x="290" y="670" />
+              <mxPoint x="290" y="840" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="bbb0xuv7O0a4QDUGZQx4-3" value="内地(科考船)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="384" width="120" height="60" as="geometry" />
@@ -130,7 +139,7 @@
         <mxCell id="bbb0xuv7O0a4QDUGZQx4-29" value="找珠三角本地科考公司或游艇会" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="734" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FA90OndIv8zv3o0rr0Xi-1" value="没有大科考，王岷岷说东莞有一个小的" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="FA90OndIv8zv3o0rr0Xi-1" value="没有大科考团队，王岷岷说东莞有一个小的" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="734" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FA90OndIv8zv3o0rr0Xi-2" value="优点：&lt;br&gt;手续简单、政府管理透明、&lt;br&gt;出入境容易、托管成熟" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -147,6 +156,15 @@
         </mxCell>
         <mxCell id="FA90OndIv8zv3o0rr0Xi-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.025;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bbb0xuv7O0a4QDUGZQx4-17" target="bbb0xuv7O0a4QDUGZQx4-19">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FA90OndIv8zv3o0rr0Xi-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FA90OndIv8zv3o0rr0Xi-16" target="FA90OndIv8zv3o0rr0Xi-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FA90OndIv8zv3o0rr0Xi-16" value="托管在香港" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FA90OndIv8zv3o0rr0Xi-18" value="找NextWave托管，流程成熟。但每次进出4千" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="810" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
