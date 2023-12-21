@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-21T03:27:25.600Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="KYeajcKAy3_LoTfzSkJT" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-21T08:27:24.127Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="WTxy8xxSeLekEYizQW-g" version="22.1.11" type="github">
   <diagram name="第 1 页" id="tAkSXGFJ9aGwxHN90IYv">
     <mxGraphModel dx="1379" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,7 +49,7 @@
         <mxCell id="bbb0xuv7O0a4QDUGZQx4-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="bbb0xuv7O0a4QDUGZQx4-3" target="bbb0xuv7O0a4QDUGZQx4-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FA90OndIv8zv3o0rr0Xi-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bbb0xuv7O0a4QDUGZQx4-3" target="FA90OndIv8zv3o0rr0Xi-16">
+        <mxCell id="FA90OndIv8zv3o0rr0Xi-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="bbb0xuv7O0a4QDUGZQx4-3" target="FA90OndIv8zv3o0rr0Xi-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="230" y="670" />
@@ -61,13 +61,13 @@
         <mxCell id="bbb0xuv7O0a4QDUGZQx4-3" value="内地(科考船)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="384" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FA90OndIv8zv3o0rr0Xi-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bbb0xuv7O0a4QDUGZQx4-4" target="bbb0xuv7O0a4QDUGZQx4-13">
+        <mxCell id="FA90OndIv8zv3o0rr0Xi-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="bbb0xuv7O0a4QDUGZQx4-4" target="bbb0xuv7O0a4QDUGZQx4-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bbb0xuv7O0a4QDUGZQx4-4" value="潜水器不注册船籍，在香港搭载上，作为科考设备" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="314" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FA90OndIv8zv3o0rr0Xi-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="bbb0xuv7O0a4QDUGZQx4-5" target="bbb0xuv7O0a4QDUGZQx4-14">
+        <mxCell id="FA90OndIv8zv3o0rr0Xi-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="bbb0xuv7O0a4QDUGZQx4-5" target="bbb0xuv7O0a4QDUGZQx4-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bbb0xuv7O0a4QDUGZQx4-5" value="潜水器进口内地" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -85,10 +85,10 @@
         <mxCell id="bbb0xuv7O0a4QDUGZQx4-17" value="托管在三亚&lt;br&gt;（两三年后可以考虑）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="574" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FA90OndIv8zv3o0rr0Xi-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bbb0xuv7O0a4QDUGZQx4-18" target="bbb0xuv7O0a4QDUGZQx4-28">
+        <mxCell id="FA90OndIv8zv3o0rr0Xi-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="bbb0xuv7O0a4QDUGZQx4-18" target="bbb0xuv7O0a4QDUGZQx4-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FA90OndIv8zv3o0rr0Xi-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="bbb0xuv7O0a4QDUGZQx4-18" target="bbb0xuv7O0a4QDUGZQx4-29">
+        <mxCell id="FA90OndIv8zv3o0rr0Xi-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="bbb0xuv7O0a4QDUGZQx4-18" target="bbb0xuv7O0a4QDUGZQx4-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bbb0xuv7O0a4QDUGZQx4-18" value="托管在珠三角" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -100,7 +100,7 @@
         <mxCell id="bbb0xuv7O0a4QDUGZQx4-22" value="深圳大鹏湾锚泊地，停泊时的管理待探讨" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="650" y="664" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FA90OndIv8zv3o0rr0Xi-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="bbb0xuv7O0a4QDUGZQx4-23">
+        <mxCell id="FA90OndIv8zv3o0rr0Xi-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="bbb0xuv7O0a4QDUGZQx4-23" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="650" y="220" as="targetPoint" />
             <Array as="points">
@@ -112,13 +112,13 @@
         <mxCell id="bbb0xuv7O0a4QDUGZQx4-23" value="潜水器注册成IV类" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="134" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FA90OndIv8zv3o0rr0Xi-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bbb0xuv7O0a4QDUGZQx4-24" target="bbb0xuv7O0a4QDUGZQx4-12">
+        <mxCell id="FA90OndIv8zv3o0rr0Xi-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="bbb0xuv7O0a4QDUGZQx4-24" target="bbb0xuv7O0a4QDUGZQx4-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bbb0xuv7O0a4QDUGZQx4-24" value="潜水器注册成附属船" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="214" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FA90OndIv8zv3o0rr0Xi-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bbb0xuv7O0a4QDUGZQx4-25" target="bbb0xuv7O0a4QDUGZQx4-26">
+        <mxCell id="FA90OndIv8zv3o0rr0Xi-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="bbb0xuv7O0a4QDUGZQx4-25" target="bbb0xuv7O0a4QDUGZQx4-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bbb0xuv7O0a4QDUGZQx4-25" value="潜水器船籍香港，只能IV类" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -127,43 +127,43 @@
         <mxCell id="bbb0xuv7O0a4QDUGZQx4-26" value="带外籍潜水器进领海手续需探讨" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="650" y="384" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FA90OndIv8zv3o0rr0Xi-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bbb0xuv7O0a4QDUGZQx4-28" target="bbb0xuv7O0a4QDUGZQx4-22">
+        <mxCell id="FA90OndIv8zv3o0rr0Xi-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="bbb0xuv7O0a4QDUGZQx4-28" target="bbb0xuv7O0a4QDUGZQx4-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bbb0xuv7O0a4QDUGZQx4-28" value="找老杨朋友阳江科考团队，每次人员从阳江过来，但老杨建议专职" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="664" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FA90OndIv8zv3o0rr0Xi-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bbb0xuv7O0a4QDUGZQx4-29" target="FA90OndIv8zv3o0rr0Xi-1">
+        <mxCell id="FA90OndIv8zv3o0rr0Xi-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="bbb0xuv7O0a4QDUGZQx4-29" target="FA90OndIv8zv3o0rr0Xi-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bbb0xuv7O0a4QDUGZQx4-29" value="找珠三角本地科考公司或游艇会" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="734" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FA90OndIv8zv3o0rr0Xi-1" value="没有大科考团队，王岷岷说东莞有一个小的" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="FA90OndIv8zv3o0rr0Xi-1" value="没有大科考团队，岷总说东莞有一个小的" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="650" y="734" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FA90OndIv8zv3o0rr0Xi-2" value="优点：&lt;br&gt;手续简单、政府管理透明、&lt;br&gt;出入境容易、托管成熟" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FA90OndIv8zv3o0rr0Xi-2" value="优点：&lt;br&gt;手续简单、政府管理透明、&lt;br&gt;出入境容易、托管成熟" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="14" width="190" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="FA90OndIv8zv3o0rr0Xi-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bbb0xuv7O0a4QDUGZQx4-2" target="FA90OndIv8zv3o0rr0Xi-2">
+        <mxCell id="FA90OndIv8zv3o0rr0Xi-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="bbb0xuv7O0a4QDUGZQx4-2" target="FA90OndIv8zv3o0rr0Xi-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FA90OndIv8zv3o0rr0Xi-4" value="优点：&lt;br&gt;运维保养特别是中/大修费用低&lt;br&gt;在九段线内下潜更合规&lt;br&gt;方便内地商务招待&lt;br&gt;对公司没有负面影响" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FA90OndIv8zv3o0rr0Xi-4" value="优点：&lt;br&gt;运维保养特别是中/大修费用低&lt;br&gt;在九段线内下潜更合规&lt;br&gt;方便内地商务招待&lt;br&gt;对公司没有负面影响" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="500" width="190" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="FA90OndIv8zv3o0rr0Xi-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.532;entryY=0.083;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bbb0xuv7O0a4QDUGZQx4-3" target="FA90OndIv8zv3o0rr0Xi-4">
+        <mxCell id="FA90OndIv8zv3o0rr0Xi-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.532;entryY=0.083;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="bbb0xuv7O0a4QDUGZQx4-3" target="FA90OndIv8zv3o0rr0Xi-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FA90OndIv8zv3o0rr0Xi-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.025;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bbb0xuv7O0a4QDUGZQx4-17" target="bbb0xuv7O0a4QDUGZQx4-19">
+        <mxCell id="FA90OndIv8zv3o0rr0Xi-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.025;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="bbb0xuv7O0a4QDUGZQx4-17" target="bbb0xuv7O0a4QDUGZQx4-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FA90OndIv8zv3o0rr0Xi-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FA90OndIv8zv3o0rr0Xi-16" target="FA90OndIv8zv3o0rr0Xi-18">
+        <mxCell id="FA90OndIv8zv3o0rr0Xi-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FA90OndIv8zv3o0rr0Xi-16" target="FA90OndIv8zv3o0rr0Xi-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FA90OndIv8zv3o0rr0Xi-16" value="托管在香港" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FA90OndIv8zv3o0rr0Xi-16" value="托管在香港" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="810" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FA90OndIv8zv3o0rr0Xi-18" value="找NextWave托管，流程成熟。但每次进出4千" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="FA90OndIv8zv3o0rr0Xi-18" value="找NextWave托管，流程成熟。但每次进出4千" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="650" y="810" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
