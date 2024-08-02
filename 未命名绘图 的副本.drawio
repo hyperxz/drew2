@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="DiRD0Uw3D5y3h3pU36qz-0" value="内地分行金融市场部" style="swimlane;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="80" y="40" width="240" height="760" as="geometry" />
+          <mxGeometry x="80" y="40" width="240" height="670" as="geometry" />
         </mxCell>
         <mxCell id="-ljLZcDJKt0uW0PENEzM-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="DiRD0Uw3D5y3h3pU36qz-0" source="DiRD0Uw3D5y3h3pU36qz-1" target="DiRD0Uw3D5y3h3pU36qz-7">
           <mxGeometry relative="1" as="geometry" />
@@ -65,7 +65,7 @@
           <mxGeometry x="15" y="580" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DiRD0Uw3D5y3h3pU36qz-2" value="总行同业授信管理部门" style="swimlane;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="350" y="40" width="240" height="760" as="geometry" />
+          <mxGeometry x="350" y="40" width="240" height="670" as="geometry" />
         </mxCell>
         <mxCell id="-ljLZcDJKt0uW0PENEzM-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="DiRD0Uw3D5y3h3pU36qz-2" source="DiRD0Uw3D5y3h3pU36qz-15">
           <mxGeometry relative="1" as="geometry">
@@ -81,7 +81,7 @@
           <mxGeometry x="15" y="380" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DiRD0Uw3D5y3h3pU36qz-9" value="内地分行运营部" style="swimlane;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="620" y="40" width="240" height="760" as="geometry" />
+          <mxGeometry x="620" y="40" width="240" height="670" as="geometry" />
         </mxCell>
         <mxCell id="-ljLZcDJKt0uW0PENEzM-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="DiRD0Uw3D5y3h3pU36qz-9" source="DiRD0Uw3D5y3h3pU36qz-16">
           <mxGeometry relative="1" as="geometry">
