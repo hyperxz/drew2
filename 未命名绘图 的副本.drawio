@@ -1,0 +1,88 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.6">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1434" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="DiRD0Uw3D5y3h3pU36qz-31" value="技&lt;br&gt;术&lt;br&gt;立&lt;br&gt;项&lt;br&gt;及&lt;br&gt;审&lt;br&gt;批" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;dashed=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="40" y="540" width="860" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="DiRD0Uw3D5y3h3pU36qz-22" value="业&lt;br&gt;务&lt;br&gt;立&lt;br&gt;项&lt;br&gt;审&lt;br&gt;批" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;dashed=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="40" y="319" width="860" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="DiRD0Uw3D5y3h3pU36qz-21" value="业&lt;br&gt;务&lt;br&gt;立&lt;br&gt;项&lt;br&gt;准&lt;br&gt;备" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;dashed=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="40" y="100" width="860" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="DiRD0Uw3D5y3h3pU36qz-0" value="内地分行金融市场部" style="swimlane;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="80" y="40" width="240" height="760" as="geometry" />
+        </mxCell>
+        <mxCell id="DiRD0Uw3D5y3h3pU36qz-1" value="《业务需求说明书》&lt;br&gt;《应用系统可用性分级表》" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="DiRD0Uw3D5y3h3pU36qz-0" vertex="1">
+          <mxGeometry x="15" y="75" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DiRD0Uw3D5y3h3pU36qz-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="DiRD0Uw3D5y3h3pU36qz-0" source="DiRD0Uw3D5y3h3pU36qz-7" target="DiRD0Uw3D5y3h3pU36qz-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DiRD0Uw3D5y3h3pU36qz-7" value="《业务价值及风险评估报告》&lt;br&gt;《应用项目业务立项登记表》" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="DiRD0Uw3D5y3h3pU36qz-0" vertex="1">
+          <mxGeometry x="15" y="175" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DiRD0Uw3D5y3h3pU36qz-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="DiRD0Uw3D5y3h3pU36qz-0" source="DiRD0Uw3D5y3h3pU36qz-13" target="DiRD0Uw3D5y3h3pU36qz-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DiRD0Uw3D5y3h3pU36qz-13" value="根据《固定资产及费用预算编制》进行业务立项审批" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="DiRD0Uw3D5y3h3pU36qz-0" vertex="1">
+          <mxGeometry x="15" y="295" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DiRD0Uw3D5y3h3pU36qz-14" value="向信息科技、协办单位发出项目业务立项完成通知，成立项目管理小组" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="DiRD0Uw3D5y3h3pU36qz-0" vertex="1">
+          <mxGeometry x="15" y="389" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DiRD0Uw3D5y3h3pU36qz-2" value="总行信息科技" style="swimlane;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="350" y="40" width="240" height="760" as="geometry" />
+        </mxCell>
+        <mxCell id="DiRD0Uw3D5y3h3pU36qz-3" value="《应用项目技术评估意见表》" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="DiRD0Uw3D5y3h3pU36qz-2" vertex="1">
+          <mxGeometry x="15" y="175" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DiRD0Uw3D5y3h3pU36qz-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="DiRD0Uw3D5y3h3pU36qz-2" source="DiRD0Uw3D5y3h3pU36qz-4" target="DiRD0Uw3D5y3h3pU36qz-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DiRD0Uw3D5y3h3pU36qz-4" value="需求整合&lt;br&gt;完善建议" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="DiRD0Uw3D5y3h3pU36qz-2" vertex="1">
+          <mxGeometry x="50" y="70" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DiRD0Uw3D5y3h3pU36qz-15" value="会签" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="DiRD0Uw3D5y3h3pU36qz-2" vertex="1">
+          <mxGeometry x="15" y="295" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DiRD0Uw3D5y3h3pU36qz-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="DiRD0Uw3D5y3h3pU36qz-2" source="DiRD0Uw3D5y3h3pU36qz-28" target="DiRD0Uw3D5y3h3pU36qz-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DiRD0Uw3D5y3h3pU36qz-28" value="技术方案编写与审核、与主办部门确定项目范围、制定实施计划，编写《应用项目技术方案建议书》" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="DiRD0Uw3D5y3h3pU36qz-2" vertex="1">
+          <mxGeometry x="15" y="510" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DiRD0Uw3D5y3h3pU36qz-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="DiRD0Uw3D5y3h3pU36qz-2" source="DiRD0Uw3D5y3h3pU36qz-29" target="DiRD0Uw3D5y3h3pU36qz-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DiRD0Uw3D5y3h3pU36qz-29" value="按《大丰银行科技管理委员会章程》完成技术立项审批" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="DiRD0Uw3D5y3h3pU36qz-2" vertex="1">
+          <mxGeometry x="15" y="590" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DiRD0Uw3D5y3h3pU36qz-30" value="按《采购管理办法》《集中采购评审管理办法》确定外包供应商，完成项目采购及技术立项审批" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="DiRD0Uw3D5y3h3pU36qz-2" vertex="1">
+          <mxGeometry x="15" y="670" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DiRD0Uw3D5y3h3pU36qz-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DiRD0Uw3D5y3h3pU36qz-1" target="DiRD0Uw3D5y3h3pU36qz-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DiRD0Uw3D5y3h3pU36qz-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DiRD0Uw3D5y3h3pU36qz-3" target="DiRD0Uw3D5y3h3pU36qz-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DiRD0Uw3D5y3h3pU36qz-9" value="协办部门" style="swimlane;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="620" y="40" width="240" height="760" as="geometry" />
+        </mxCell>
+        <mxCell id="DiRD0Uw3D5y3h3pU36qz-16" value="会签" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="DiRD0Uw3D5y3h3pU36qz-9" vertex="1">
+          <mxGeometry x="15" y="295" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DiRD0Uw3D5y3h3pU36qz-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DiRD0Uw3D5y3h3pU36qz-13" target="DiRD0Uw3D5y3h3pU36qz-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DiRD0Uw3D5y3h3pU36qz-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DiRD0Uw3D5y3h3pU36qz-15" target="DiRD0Uw3D5y3h3pU36qz-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
